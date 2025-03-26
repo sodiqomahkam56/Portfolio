@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baxtiyor Maxmudov - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Baxtiyor Maxmudov</h1>
+        <p>Logistika: Fuel Department | Python Developer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">Men haqimda</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Aloqa</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>Men haqimda</h2>
+        <p>Men logistikada deyarli 1 yil tajribaga egaman, ingliz va o‘zbek tillarida ravon gaplasha olaman, rus tilida bemalol muloqot qila olaman. Python va PostgreSQL bilan ishlashni bilaman.</p>
+    </section>
+    
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <ul>
+            <li><a href="https://youtu.be/lVYCiOnm8tU?si=6Qnnm3PhpgN-yBMH" target="_blank">Ish namuna 1</a></li>
+            <li><a href="https://youtu.be/s5h1VYqF9vo?si=sfkYseKKguLMSUAX" target="_blank">Ish namuna 2</a></li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Aloqa</h2>
+        <p>Email: <a href="mailto:sodiqomahkam56@gmail.com">sodiqomahkam56@gmail.com</a></p>
+        <p>Instagram: <a href="https://www.instagram.com/__maxkamov1ch__/" target="_blank">@__maxkamov1ch__</a></p>
+        <p>Telegram: <a href="https://t.me/MBM_2006" target="_blank">@MBM_2006</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/baxtiyor-maxmudov-92a53827b/" target="_blank">Profil</a></p>
+        <p>YouTube: <a href="https://www.youtube.com/@maxkamov1ch_B" target="_blank">Kanal</a></p>
+        <p>GitHub: <a href="https://github.com/sodiqomahkam56" target="_blank">@sodiqomahkam56</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Baxtiyor Maxmudov</p>
+    </footer>
+</body>
+</html>
+
+shu kodni faly shaklida qilib joylashtirish kerak ekan
